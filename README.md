@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Ruby+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RubyMine Free Installer** — RubyMine is JetBrains' Ruby and Rails IDE providing intelligent code completion, debugging, testing, database tools, and deep Rails framework understanding. Works without internet access, no account required. Full offline installation.
+**💻 RubyMine Free Installer** — RubyMine is JetBrains' Ruby and Rails IDE with intelligent code completion, Rails-specific features, debugging, database management, and JavaScript support for full-stack Ruby development. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About RubyMine
 
-RubyMine is JetBrains' Ruby and Rails IDE providing intelligent code completion, debugging, testing, database tools, and deep Rails framework understanding. It delivers the most intelligent Ruby development experience available in any IDE.
+RubyMine is JetBrains' Ruby and Rails IDE with intelligent code completion, Rails-specific features, debugging, database management, and JavaScript support for full-stack Ruby development. RubyMine's understanding of Rails conventions and Ruby metaprogramming makes it the most capable IDE for Ruby on Rails developers who want deep language intelligence beyond what VS Code provides.
 
 ---
 
 ## ❌ Problem: RubyMine is hard to access
 
-- **Paid Subscription** — No free community edition
-- **Competition** — VS Code with Ruby extension provides free Ruby development support
-- **Ruby Niche** — Ruby's declining popularity reduces the market for a dedicated paid Ruby IDE
-- **Resource Intensive** — Heavier than lightweight Ruby editors
+- **Commercial License** — Requires paid JetBrains subscription
+- **Resource Demands** — Higher memory usage than lightweight Ruby editors
+- **VS Code Alternative** — VS Code with Solargraph extension free and competitive
+- **Rails Focus** — Specialized for Ruby/Rails; less suitable for other server-side languages
 
 ---
 
@@ -121,7 +121,7 @@ RubyMine is JetBrains' Ruby and Rails IDE providing intelligent code completion,
 
 ---
 
-**RubyMine Free Installer** — RubyMine is JetBrains' Ruby and Rails IDE providing intelligent code completion, debugging, testing, database tools, and deep Rails framework understanding. Install without internet connection today!
+**RubyMine Free Installer** — RubyMine is JetBrains' Ruby and Rails IDE with intelligent code completion, Rails-specific features, debugging, database management, and JavaScript support for full-stack Ruby development. Install without internet connection today!
 
 <div align="center">
 
